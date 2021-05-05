@@ -15,7 +15,7 @@
 
         
    
-        //cas blindage de s'il y a manipulation du parametre err = erreur 
+        //cas blindage de s'il y a manipulation du paramètre err = erreur 
            //alors redirection vers l'accueil
            if(isset($gErreur)){
              if($gErreur != 101){

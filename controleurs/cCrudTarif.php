@@ -14,7 +14,7 @@
         $tabTarif = getTarif();
         $tabCat = getCategoP();
 
-        //paramètre GET reçus ,controler & nettoyer
+        //paramètre GET reçus, contrôler & nettoyer
         $gCodeDuree = isset($_GET['cdu']) ? $_GET['cdu'] : null;
         $gCategoProd = isset($_GET['cpr']) ? $_GET['cpr'] : null;
         $gPrixLoc = isset($_GET['pl']) ? $_GET['pl'] : null;
