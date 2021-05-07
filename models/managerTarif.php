@@ -94,7 +94,7 @@
     function getUpdate($duree, $catProd, $prix){
         global $pdo;
 
-        $msg;
+        $msg = false;
         try{
             // requete préparer avec des marqueurs
             $modification='UPDATE tarifer
