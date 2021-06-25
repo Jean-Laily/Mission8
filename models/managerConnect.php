@@ -1,7 +1,7 @@
 <?php
     function userExiste($user,$pass){
         //tableau en ajouter en dure
-        $tabConnect = array('Admin' => 'admin', 'Jean'=>'Paul', 'Afpar'=>'afpar');
+        $tabConnect = array('Admin' => '@dmin123', 'Afpar'=>'@fpar123');
 
         $estValide = false;
 

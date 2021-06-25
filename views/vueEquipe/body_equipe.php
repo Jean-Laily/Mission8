@@ -2,7 +2,8 @@
 <section class="pAdmin">
    <div class="container">
       <div class="bloc" id="histoire">
-      <a href="index.php?act=cad" type="button" class="btn ">Retour</a> 
+      <a href="index.php?act=cad" type="button" class="btn ">Retour</a>
+      <a href="#" type="button" class="btn float-right">Créer</a> 
          <div class="row">
             <div class="col-lg-4"><img src="assets/images/logo.jpg" alt="Logo Surf Wave" class="img-fluid mx-auto d-block" width="300px"></div>
             <div class="bloc-info col-lg-8">
@@ -13,10 +14,10 @@
             </div>
          </div>
 
-         <div id="equipe">
+         <!-- <div id="equipe">
          <a href="#" type="button" class="btn float-right">Supprimer</a>
          <a href="#" type="button" class="btn float-right">Modifier</a>
-         <a href="#" type="button" class="btn float-right">Créer</a>
+         <a href="#" type="button" class="btn float-right">Créer</a> -->
             
             
             <h2>Notre équipe</h2>
